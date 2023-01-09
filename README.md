@@ -2,7 +2,7 @@
 ## About 
 
 <p>
-<a href="http://sandbox.nextin.lt:8082">Sklydžiai</a>
+<a href="http://sandbox.nextin.lt:8082">AppURL - Sklydžiai</a>
 </p>
 
 Oro uostai importuojami iš airports1.csv as-is, pridedant id stulpelį 
